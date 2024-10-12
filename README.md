@@ -1,4 +1,4 @@
-Hi 👋 My name is Dmitry
+Hi ▼▼ My name is Dmitry ▼▼
 =======================
 
 Web, Full Stack, DevOps Developer
