@@ -81,13 +81,11 @@ I prefer learning by building and operating real systems: automating service man
 <div align="center">
 
 <a href="https://github.com/LePaVuki/Home-Circus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LePaVuki&repo=Home-Circus&description_lines_count=2&theme=transparent&hide_border=true" alt="Home-Circus repository card" />
-</a>
-<a href="https://github.com/LePaVuki/angular-react-DevOps-case">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LePaVuki&repo=angular-react-DevOps-case&description_lines_count=2&theme=transparent&hide_border=true" alt="Angular React DevOps case repository card" />
-</a>
-<a href="https://github.com/LePaVuki/ESRP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LePaVuki&repo=ESRP&description_lines_count=2&theme=transparent&hide_border=true" alt="ESRP repository card" />
+<img width="31%" src="https://github-stats-extended.vercel.app/api/pin?username=LePaVuki&repo=LePaVuki%2FHome-Circus&description_lines_count=2&theme=radical" alt="Home-Circus repository" />
+</a><a href="https://github.com/LePaVuki/angular-react-DevOps-case">
+<img width="31%" src="https://github-stats-extended.vercel.app/api/pin?username=LePaVuki&repo=LePaVuki%2Fangular-react-DevOps-case&description_lines_count=2&theme=radical" alt="Angular React DevOps case repository" />
+</a><a href="https://github.com/LePaVuki/ESRP">
+<img width="31%" src="https://github-stats-extended.vercel.app/api/pin?username=LePaVuki&repo=LePaVuki%2FESRP&description_lines_count=2&theme=radical" alt="ESRP repository" />
 </a>
 
 </div>
@@ -186,25 +184,6 @@ ESP32 / ESP8266, MQTT, OTA firmware updates and Arduino IDE.
 
 ---
 
-## GitHub Metrics
-
-<div align="center">
-
-<a href="https://github.com/LePaVuki">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LePaVuki&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/LePaVuki">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LePaVuki&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top languages" />
-</a>
-
-<a href="https://github.com/LePaVuki">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LePaVuki&hide_border=true&area=true&theme=github-compact" width="95%" alt="GitHub contribution activity graph" />
-</a>
-
-</div>
-
----
-
 ## Contact
 
 <p align="left">
@@ -215,5 +194,5 @@ ESP32 / ESP8266, MQTT, OTA firmware updates and Arduino IDE.
 ---
 
 <p align="center">
-  <i>Building, automating, and operating systems while continuously improving my DevOps practice.</i>
+  <i>"I am a slow walker, but I never walk back"</i>
 </p>
